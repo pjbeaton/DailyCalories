@@ -1,0 +1,54 @@
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\ApplicationIcon.png
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\Background.png
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\AppManifest.xaml
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\DailyCalories.xap
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\Microsoft.Advertising.Mobile.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\obj\Release\ResolveAssemblyReference.cache
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\obj\Release\App.g.i.cs
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\obj\Release\MainPage.g.i.cs
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\obj\Release\Results.g.i.cs
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\obj\Release\XapCacheFile.xml
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\Daily Calories.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\Bin\Release\Daily Calories.pdb
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\obj\Release\Daily Calories.g.resources
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\obj\Release\Daily Calories.dll
+C:\Users\pjbeaton\Documents\Visual Studio 2010\Projects\DailyCalories\DailyCalories\obj\Release\Daily Calories.pdb
